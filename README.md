@@ -1,2 +1,2 @@
 # ProjectEuler
-ProjectEuler solutions in SageMath / F# 
+ProjectEuler solutions in SageMath / F# / jRuby
